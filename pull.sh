@@ -1,2 +1,2 @@
-git pull gitee
-git pull github
+git pull gitee main
+git pull github main
